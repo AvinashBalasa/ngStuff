@@ -21,7 +21,7 @@ export class AirLineService {
     {fid:"AY-103",dep:"DEL",arr:"MAA",dura:"2h40m",price:"$900"},
     
   ]
-
+//test
 getData(){
   return this.flightData;
 }
